@@ -21,3 +21,23 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+*/target/**
+/log/
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+salesschedule-be.iml
+local.properties
+.idea
+.settings/
+.project
+.classpath
+.loadpath
+.recommenders
+
+LoginGitHub.iml
